@@ -1,5 +1,7 @@
 💱 Currency Converter
+
 Currency Converter is a real-time web application that allows users to convert amounts between 150+ world currencies using live exchange rates fetched from a free API. It features dynamic country flags, auto-populated currency dropdowns, and an instant conversion result on page load and button click.
+
 
 📌 Features
 - 🌍 Convert between multiple international currencies
@@ -9,6 +11,7 @@ Currency Converter is a real-time web application that allows users to convert a
 - 📱 Responsive and clean user interface
 - ⚡ Fast and lightweight application
 
+
 🛠️ Technologies Used
 - HTML5
 - CSS3
@@ -16,6 +19,7 @@ Currency Converter is a real-time web application that allows users to convert a
 - Fetch API
 - Font Awesome Icons
 - Currency API (Fawaz Ahmed Currency API)
+
 
 📂 Project Structure
 Currency Converter/
@@ -26,6 +30,7 @@ Currency Converter/
 ├── codes.js            # Country and currency mapping
 └── README.md           # Project documentation
 
+
 🚀 How It Works
 1. Enter the amount you want to convert.
 2. Select the source currency.
@@ -33,12 +38,14 @@ Currency Converter/
 4. Click Get Exchange Rate.
 5. The application fetches the latest exchange rate and displays the converted amount.
 
+
 🌐 API Used
 This project uses the free Currency API:
 ```
 https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api
 ```
 The application fetches real-time exchange rates using JavaScript's Fetch API.
+
 
 
 ▶️ Running the Project
@@ -67,6 +74,7 @@ This project helped in understanding:
 - Dynamic UI Updates
 - Responsive Web Design
 
+
 🔮 Future Improvements
 - Add currency swap button
 - Display historical exchange rates
@@ -75,6 +83,7 @@ This project helped in understanding:
 - Offline caching
 - Exchange rate charts
 - Favorite currencies
+
 
 🤝 Contributing
 Contributions are welcome!
@@ -94,6 +103,7 @@ bash
 git push origin feature-name
 
 5. Open a Pull Request
+
 
 👨‍💻 Author
 Yogesh M T
